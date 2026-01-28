@@ -1,1 +1,1 @@
-# set-class-project
+# sei-class-project
